@@ -3,7 +3,7 @@ package com.example.demo.Models;
 import javax.persistence.*;
 
 @Entity
-
+//Products
 public class Products {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
